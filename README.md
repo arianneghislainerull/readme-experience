@@ -32,9 +32,9 @@
 **Highlights:**  
 - 🚀 **Project Management**: Delivered 8 completed software development projects and contributed to a total of 11 projects.  
 - 🌐 **Web Development**: Built a report portal using React, Flask, and CSS for improved data organization and navigation.  
-- 📊 **Data Visualization**: Developed a responsive dashboard with Tailwind CSS, SQL, JavaScript, Flask, and Seaborn, automating asset monitoring.  
+- 📊 **Data Visualization**: Developed a responsive web dashboard with Tailwind CSS, SQL, JavaScript, Flask, and Seaborn, automating asset monitoring.  
 - 🛠 **Data Engineering**: Managed diverse datasets with SQL, Bash, Python, and Git, showcasing a strong foundation in backend workflows.  
-- ⚙️ **Automation**: Streamlined processes with Python APIs, automating tasks like inventory audits, hiring reports, and Jira cleanups.  
+- ⚙️ **Automation**: Streamlined processes with Python API and scripts, automating tasks like querying and scraping data, inventory audits, hiring reports, and Jira cleanups.  
 
 ---
 
