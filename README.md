@@ -46,7 +46,9 @@ Data Engineering for the Radio Access Networks
 - Designed and implemented an internal API using Python to scrape and query data, streamlining data collection processes.  
 
 ### Automation & Tools  
-- Developed a suite of software tools to automate tasks such as monthly inventory audits, daily hiring reports, Jira ticket cleanups, employee exit reports, and monthly third-party reports.  
+- Developed a suite of Python-based software tools to automate data reports such as monthly inventory audits, daily hiring reports, Jira ticket cleanups, employee exit reports, and monthly third-party reports. This initiative significantly enhanced data processing and report generation efficiency 
+
+
 
 ---
 
